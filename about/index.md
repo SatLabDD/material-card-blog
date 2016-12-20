@@ -1,11 +1,27 @@
 ---
 layout: page
-title: About this blog
+title: Über diese Seite
 color: "#7B1FA2"
 textcolor: white
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in fermentum felis. Suspendisse vel leo mi. In lacinia ipsum mauris, vitae tincidunt sem sollicitudin in. Donec ante urna, maximus porttitor varius placerat, vulputate eu eros. Pellentesque tempor risus sed ante rutrum, a fermentum ex ultrices. Ut posuere urna semper odio vestibulum, sit amet placerat sapien imperdiet. Maecenas malesuada metus urna, a egestas eros suscipit nec. Cras ante dolor, commodo vitae placerat a, tristique non ligula. Praesent ullamcorper lacinia elementum. Cras suscipit facilisis libero imperdiet fermentum. In tempus metus in nisi luctus, quis imperdiet nunc sodales. Donec magna ipsum, commodo et porttitor feugiat, consequat nec est.
+#### Wir
+Hallo an alle! Wir sind das Earth_TU_Radios-Team! 
 
-Mauris velit felis, placerat porta scelerisque id, fringilla nec ipsum. Praesent vitae sollicitudin augue, sit amet sodales augue. Sed scelerisque tellus vel massa ultrices, eu placerat nunc placerat. Nam ornare odio justo, nec rutrum turpis sodales vitae. Fusce velit urna, auctor vitae odio eu, porttitor finibus nulla. Praesent molestie egestas turpis sed accumsan. Nunc congue diam molestie, imperdiet turpis ac, ultrices ex. Duis quis mi sagittis, tristique orci sed, ultrices turpis. Maecenas suscipit, ante eu ornare commodo, lectus elit rutrum dui, eu cursus ipsum urna nec turpis. Ut malesuada sapien nisl, quis tincidunt ex pulvinar vel. Sed mi nunc, volutpat et aliquam non, rutrum ut lorem.
+Wir sind begeistert von der Herausforderung, einen Satelliten zu bauen. Wir, das sind vier Schülerinnen und Schüler, die sich zusammengetan haben, um beim [Deutschen CanSat-Wettbewerb](http://cansat.de) mitzumachen.
 
-Sed molestie finibus purus eu laoreet. In tincidunt, felis non pulvinar lacinia, lectus orci feugiat ex, eu commodo lorem nisl ac massa. Cras dictum sit amet purus ac sollicitudin. Sed elementum ipsum urna, eu convallis neque finibus et. In rutrum orci eros, vitae ultrices nibh malesuada at. Nam feugiat magna dui, a finibus sapien facilisis ut. Vestibulum tincidunt risus id sapien aliquet, sed elementum magna dapibus. Nulla scelerisque aliquam dui, nec pretium mauris eleifend vel. Vivamus id purus erat. Donec vulputate, magna ut hendrerit bibendum, eros massa porttitor tellus, eget ultrices magna erat quis ipsum. Donec commodo dignissim quam vitae bibendum. Proin sapien nibh, cursus nec urna ut, consequat pellentesque dui. Vestibulum facilisis nunc eu ex consequat, at lobortis erat sollicitudin.
+<!--img src="teamfoto.jpg" alt="Teamfoto" style="width:300px"-->
+
+{% include image.html
+    img="teamfoto.jpg"
+    width="60%"
+    title="Teamfoto"
+    caption="Team Earth_TU_Radios"
+    url="teamfoto.jpg"
+%}
+
+#### CanSat-Wettbewerb
+Vielleicht erklären wir euch erst einmal, was dieser „CanSat“ überhaupt ist.
+
+Der CanSat-Wettbewerb findet jedes Jahr innerhalb Deutschlands statt. Die teilnehmenden Teams versuchen, einen Satelliten zu bauen, der später hochfliegen und verschiedene Missionen erfüllen soll. Unser Minisatellit bleibt aber ganz in der Nähe der Erde, denn einen „echten“ Satelliten zu bauen, würde ja viel Aufwand und Geld kosten.
+
+Aber selbst einen kleinen, Getränkedosen-förmigen Satelliten für seine wenige Kilometer weite Reise in die Höhe zu planen, zu bauen, zu testen und für den Tag, an dem es auf alles ankommt, startklar zu machen, ist schon eine riesengroße Herausforderung! Unser Ziel ist natürlich, dass der Satellit all seine Missionen gut hinbekommt.
