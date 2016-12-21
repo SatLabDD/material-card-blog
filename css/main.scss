@@ -211,6 +211,17 @@ a {
     }
 }
 
+.image-overlay {
+    position: relative;
+}
+
+.text-overlay {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align:right;
+}
+
 img {
     border-radius: 2px;
 }

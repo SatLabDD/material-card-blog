@@ -16,6 +16,9 @@ Wir sind begeistert von der Herausforderung, einen Satelliten zu bauen. Wir, das
     width="60%"
     title="Teamfoto"
     caption="Team Earth_TU_Radios"
+    credits="Diego Jahn"
+    licence="CC-BY 4.0 International"
+    licence_url="https://creativecommons.org/licenses/by/4.0/"
     url="teamfoto.jpg"
 %}
 
