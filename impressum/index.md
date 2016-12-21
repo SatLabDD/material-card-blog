@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impressum
+color: "#0074B9"
 textcolor: white
 ---
  Betreiber und Kontakt:

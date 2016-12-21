@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über diese Seite
-color: "#7B1FA2"
+color: "#F6511D"
 textcolor: white
 ---
 #### Wir

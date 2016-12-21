@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sponsoren
+color: "#FFB42E"
 textcolor: white
 ---
 Das CanSat-Team Earth_TU_Radios vom DLR_School_Lab TU Dresden wird unterstützt von:
