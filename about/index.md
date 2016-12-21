@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Über diese Seite
+title: Team
 color: "#F6511D"
 textcolor: white
 ---
-#### Wir
 Hallo an alle! Wir sind das Earth_TU_Radios-Team! 
 
 Wir sind begeistert von der Herausforderung, einen Satelliten zu bauen. Wir, das sind vier Schülerinnen und Schüler, die sich zusammengetan haben, um beim [Deutschen CanSat-Wettbewerb](http://cansat.de) mitzumachen.
